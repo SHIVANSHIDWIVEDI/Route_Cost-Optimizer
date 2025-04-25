@@ -11,9 +11,8 @@ It uses a dynamic programming algorithm to compute the cheapest cost to reach ea
 The final result shows the minimum cumulative cost to reach each station from the starting point (station 0).
 
 
-![Screenshot 2025-04-25 143440](https://github.com/user-attachments/assets/c53be159-52a7-42cd-8ca9-530bbf9bcde2)
+![Screenshot 2025-04-25 143440](https://github.com/user-attachments/assets/c53be159-52a7-42cd-8ca9-530bbf9bcde2) ![Screenshot 2025-04-25 220848](https://github.com/user-attachments/assets/8426fda2-9682-45ac-8a4f-0c3bc0e7ad71)
 
-![Screenshot 2025-04-25 220848](https://github.com/user-attachments/assets/8426fda2-9682-45ac-8a4f-0c3bc0e7ad71)
 
 
 # ✨ Features
@@ -23,7 +22,7 @@ The final result shows the minimum cumulative cost to reach each station from th
 🎨 Clean and responsive UI.
 🧹 No extra empty boxes – clean results only when available.
 
-#🔥 What You Learn 
+# 🔥 What You Learn 
 --> Working with arrays and loops in JavaScript.
 --> Implementing Dynamic Programming (DP) in a real-world example.
 --> Creating responsive UI with HTML and CSS.
